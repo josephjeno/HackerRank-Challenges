@@ -21,3 +21,5 @@ Print the sum of the array's elements as a single integer.
 #### Explanation
 
 We print the sum of the array's elements: 1 + 2 + 3 + 4 + 10 + 11 = 31.
+
+*Challenge contributed to hackerrank.com by shashank21j.*
